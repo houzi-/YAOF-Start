@@ -1,3 +1,26 @@
-### Hi Welcome to Use OneWRT 😎
+### Welcome to Use OneWRT 👋
 
-![OneWRT’s github stats](https://github-readme-stats.vercel.app/api?username=onewrt&hide=issues&include_all_commits=true&hide_title=true&theme=gotham)
+<!--
+**Onewrt/Onewrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+[![OneWRT's Github Stats](https://github-readme-stats.vercel.app/api?username=onewrt&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+## ✨ 感谢 | THANKS ✨
+
+感谢各位大神的开源贡献！｜Thank you for open source contribution！
+
+- **认识OneWRT**：https://www.onewrt.org
+- **下载OneWRT**：https://pan.onewrt.org
+
